@@ -1,0 +1,11 @@
+[package]
+name = "excel_parser"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+zip = "3.0.0"
+fast-glob = "1.0.0"
+quick-xml = "0.39.0"
+thiserror = "2.0.18"
+rustc-hash = "2.0.0"
